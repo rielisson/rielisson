@@ -18,6 +18,6 @@
 </div>
 
 ## Um pouco sobre mim:
-Sou um programador de 18 anos, apaixonado por tecnologia e desenvolvimento web. Com sólidos conhecimentos em HTML, JavaScript e CSS, estou constantemente expandindo minhas habilidades e atualmente me aprofundando em React e Angular.
+Sou um programador de 19 anos, apaixonado por tecnologia e desenvolvimento web. Com sólidos conhecimentos em HTML, JavaScript e CSS, estou constantemente expandindo minhas habilidades e atualmente me aprofundando em React e Angular.
 
 Estou cursando um curso técnico de desenvolvimento web, onde busco unir teoria e prática para criar soluções inovadoras e eficientes. Estou sempre em busca de novos desafios e oportunidades para aplicar e aprimorar meus conhecimentos.
