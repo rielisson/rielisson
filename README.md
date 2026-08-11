@@ -380,13 +380,11 @@ FEATURES
 # `> TROPHY_ROOM`
 
 <div align="center">
-
 <img
-  src="https://github-profile-trophy-liard-delta.vercel.app/?username=rielisson&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10"
+  src="https://github-profile-trophy.vercel.app/?username=rielisson&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10"
   width="100%"
   alt="GitHub Trophies"
 />
-
 </div>
 
 ---
