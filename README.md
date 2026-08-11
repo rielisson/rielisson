@@ -381,13 +381,15 @@ FEATURES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rielisson&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img
+  src="https://github-profile-trophy-liard-delta.vercel.app/?username=rielisson&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10"
+  width="100%"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
 ---
-
-# `> CONTRIBUTION_MATRIX`
 
 # `> CONTRIBUTION_MATRIX`
 
